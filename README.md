@@ -33,16 +33,16 @@ This project analyzes Medicare Part D prescription data to:
 ![Screenshot A](Images/KPIs.png)
 
 ### Top Generic Drugs by Claims
-![Screenshot B](Images/Bar chart for top 5 brand claim counts.png)
+![Screenshot B](Images/Bar_chart_for_top_5_brand_claim_counts.png)
 
 ### Top Brand Name Drugs by Claims
-![Screenshot C](Images/Bar chart for top 5 generic claim counts.png)
+![Screenshot C](Images/Bar_chart_for_top_5_generic_claim_counts.png)
 
 ### Top Generic Drugs by Cost
-![Screenshot D](Images/Bar chart for top 5 generic drugs by cost.png)
+![Screenshot D](Images/Bar_chart_for_top_5_generic_drugs_by_cost.png)
 
 ### Correlation Metric and Commentary
-![Screenshot E](Images/Correlation metric and commentary.png)
+![Screenshot E](Images/Correlation_metric_and_commentary.png)
 
 ---
 
