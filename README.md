@@ -33,7 +33,7 @@ This project analyzes Medicare Part D prescription data to:
 ![Screenshot A](Images/KPIs.png)
 
 ### Top Generic Drugs by Claims
-![Screenshot B](Images/Bar_chart_for_top_5_brand_claim_counts.png)
+![Screenshot B](Images/Bar_chart_for_top_5_generic_claim_counts.png)
 
 ### Top Brand Name Drugs by Claims
 ![Screenshot C](Images/Bar_chart_for_top_5_generic_claim_counts.png)
